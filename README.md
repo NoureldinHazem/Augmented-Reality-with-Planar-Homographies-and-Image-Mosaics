@@ -1,11 +1,8 @@
 # Augmented-Reality-with-Planar-Homographies-and-Image-Mosaics
-</br>links </br>
-Part 1 (colab):  https://colab.research.google.com/drive/19VX7kDDZFRoi-qqfUHvah7-
-PXt4c3-jA?usp=sharing <br>
-Part 2 (colab): https://colab.research.google.com/drive/1adCGAZZCP34pg7GjkLlbTo
-AdvTQXsB3M?usp=sharing <br>
-Output Videos : https://drive.google.com/drive/folders/1oev3rrYDGfnDaJkT60e3E_nYu
-LBoXG0x?usp=share_link
+</br>links : </br>
+Part 1 (colab):  https://colab.research.google.com/drive/19VX7kDDZFRoi-qqfUHvah7-PXt4c3-jA?usp=sharing <br>
+Part 2 (colab): https://colab.research.google.com/drive/1adCGAZZCP34pg7GjkLlbToAdvTQXsB3M?usp=sharing <br>
+Output Videos : https://drive.google.com/drive/folders/1oev3rrYDGfnDaJkT60e3E_nYuLBoXG0x?usp=share_link
 <br><br>
 Part 1: Augmented Reality with Planar Homographies
 <br><br>
